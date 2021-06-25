@@ -60,7 +60,7 @@
 
 ---
 ### Описание методов работы с API:
-* [login](#метод-login) – метод позволяющий провести авторизацию в api
+* [login](#Links) – метод позволяющий провести авторизацию в api
 
 * manufacturer/get – метод позволяющий получить бренд по uid
 * manufacturer/getAll – метод позволяющий получить список всех брендов
@@ -87,7 +87,7 @@
 ---
 ---
 
-## Метод login
+## <a name="Links"></a> Метод login
 ## POST https://test-domen.ru/index.php?route=api/login
 ### Post-запрос с параметрами:
 * username – api username
